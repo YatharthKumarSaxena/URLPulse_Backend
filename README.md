@@ -6,8 +6,8 @@ The system accepts a batch request, splits it into individual job items, process
 
 ## Live Application
 
-* **Frontend:** `<FRONTEND_DEPLOYED_URL>`
-* **Backend API:** `<BACKEND_DEPLOYED_URL>`
+* **Frontend:** `https://urlpulse-frontend.onrender.com/`
+* **Backend API:** `https://urlpulse-backend.onrender.com/`
 
 ---
 
