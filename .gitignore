@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+uploads/
+# Reference-only source supplied for architectural comparison; do not submit it with URLPulse.
+Software_Management_Service (Copy)/
